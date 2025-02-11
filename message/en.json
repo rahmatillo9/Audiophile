@@ -1,0 +1,46 @@
+{
+  "HomePage": {
+    "newproduct": "NEW PRODUCT",
+    "xx99": "XX99 Mark II Headphones",
+    "xx99title": "Experience natural, lifelike audio and exceptional build quality made for the passionate music enthusiast.",
+    "xx99button": "see product",
+    "headphones": "HEADPHONES",
+    "spekers": "SPEAKERS",
+    "earphones": "EARPHONES",
+    "shop": "shop",
+    "zx9-speaker": {
+      "title": "ZX9 SPEAKER",
+      "description": "Upgrade to premium speakers that are phenomenally built to deliver truly remarkable sound."
+    },
+    "zx7-speaker": {
+      "title": "ZX7 SPEAKER"
+    },
+    "yx1-earphones": {
+      "title": "YX1 EARPHONES"
+    },
+    "see-product": "See Product",
+    "bestgear": {
+      "title": "Bringing you the",
+      "strong": "best",
+      "subtitle": "audio gear",
+      "description": "Located at the heart of New York City, Audiophile is the premier store for high end headphones, earphones, speakers, and audio accessories. We have a large showroom and luxury demonstration rooms available for you to browse and experience a wide range of our products. Stop by our store to meet some of the fantastic people who make Audiophile the best place to buy your portable audio equipment.",
+      "alt": "Bringing you the best audio gear"
+    }
+  },
+  "Navbar": {
+    "headphones": "HEADPHONES",
+    "speakers": "SPEAKERS",
+    "earphones": "EARPHONES",
+    "shop": "SHOP",
+    "home": "HOME"
+  },
+  "Footer": {
+    "footertext": "Audiophile is an all in one stop to fulfill your audio needs. We're a small team of music lovers and sound specialists who are devoted to helping you get the most out of personal audio. Visit our demo facility - we’re open 7 days a week.",
+    "copyright": "Copyright 2021. All Rights Reserved",
+    "headphones": "HEADPHONES",
+    "speakers": "SPEAKERS",
+    "earphones": "EARPHONES",
+    "shop": "SHOP",
+    "home": "HOME"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "HomePage": {
+    "newproduct": "YANGI MAHSULOT",
+    "xx99": "XX99 Mark II Quloqchinlari",
+    "xx99title": "Tabiiy va jonli ovoz, yuqori sifatli materiallar – haqiqiy musiqa ixlosmandlari uchun.",
+    "xx99button": "mahsulotni ko‘rish",
+    "headphones": "QULOQCHINLAR",
+    "spekers": "KALONKALAR",
+    "earphones": "NAUSHNIKLAR",
+    "shop": "do‘kon",
+    "zx9-speaker": {
+      "title": "ZX9 KOLONKASI",
+      "description": "Ajoyib ovoz sifatini taqdim etadigan yuqori sifatli karnaylarga yangilang."
+    },
+    "zx7-speaker": {
+      "title": "ZX7 KOLONKASI"
+    },
+    "yx1-earphones": {
+      "title": "YX1 QULOQCHINLAR"
+    },
+    "see-product": "Mahsulotni ko‘rish",
+    "bestgear": {
+      "title": "Sizga",
+      "strong": "eng yaxshi",
+      "subtitle": "audio jihozlarini taqdim etamiz",
+      "description": "Nyu-York shahrining markazida joylashgan Audiophile yuqori sifatli quloqchinlar, garnituralar, dinamiklar va audio aksessuarlar uchun eng yaxshi do‘kon hisoblanadi. Bizda keng ko‘lamli mahsulotlarimiz bilan tanishish va ularni sinab ko‘rish uchun katta ko‘rgazmali zal va hashamatli namoyish xonalari mavjud. Do‘konimizga tashrif buyuring va Audiophile sizning eng yaxshi portativ audio uskunalar xarid qilish joyingiz ekanligiga ishonch hosil qiling.",
+      "alt": "Sizga eng yaxshi audio jihozlarini taqdim etamiz"
+    }
+  },
+  "Navbar": {
+    "headphones": "QULOQCHINLAR",
+    "speakers": "DINAMIKLAR",
+    "earphones": "NAUSHNIKLAR",
+    "shop": "DO'KON",
+    "home": "ASOSIY"
+  },
+  "Footer": {
+    "footertext": "Audiophile - bu sizning audio ehtiyojlaringizni qondirish uchun hammasi bir joyda. Biz musiqa ixlosmandlari va ovoz mutaxassislaridan iborat kichik jamoamiz, ular sizga shaxsiy audiodan maksimal darajada foydalanishga yordam berishga intiladi. Namoyish markazimizga tashrif buyuring - biz haftada 7 kun ochiqmiz.",
+    "copyright": "Copyright 2021. Barcha huquqlar himoyalangan.",
+    "headphones": "QULOQCHINLAR",
+    "speakers": "DINAMIKLAR",
+    "earphones": "NAUSHNIKLAR",
+    "home": "ASOSIY"
+  }
+}
